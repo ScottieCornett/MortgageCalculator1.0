@@ -3,3 +3,13 @@ C:\Users\Scottie\OneDrive\Desktop\Mortgage_Calculator_1.0\obj\Debug\net6.0\Mortg
 C:\Users\Scottie\OneDrive\Desktop\Mortgage_Calculator_1.0\obj\Debug\net6.0\Mortgage_Calculator_1.0.AssemblyInfoInputs.cache
 C:\Users\Scottie\OneDrive\Desktop\Mortgage_Calculator_1.0\obj\Debug\net6.0\Mortgage_Calculator_1.0.AssemblyInfo.cs
 C:\Users\Scottie\OneDrive\Desktop\Mortgage_Calculator_1.0\obj\Debug\net6.0\Mortgage_Calculator_1.0.csproj.CoreCompileInputs.cache
+C:\Users\Scottie\OneDrive\Desktop\Mortgage_Calculator_1.0\bin\Debug\net6.0\Mortgage_Calculator_1.0.exe
+C:\Users\Scottie\OneDrive\Desktop\Mortgage_Calculator_1.0\bin\Debug\net6.0\Mortgage_Calculator_1.0.deps.json
+C:\Users\Scottie\OneDrive\Desktop\Mortgage_Calculator_1.0\bin\Debug\net6.0\Mortgage_Calculator_1.0.runtimeconfig.json
+C:\Users\Scottie\OneDrive\Desktop\Mortgage_Calculator_1.0\bin\Debug\net6.0\Mortgage_Calculator_1.0.dll
+C:\Users\Scottie\OneDrive\Desktop\Mortgage_Calculator_1.0\bin\Debug\net6.0\Mortgage_Calculator_1.0.pdb
+C:\Users\Scottie\OneDrive\Desktop\Mortgage_Calculator_1.0\obj\Debug\net6.0\Mortgage_Calculator_1.0.dll
+C:\Users\Scottie\OneDrive\Desktop\Mortgage_Calculator_1.0\obj\Debug\net6.0\refint\Mortgage_Calculator_1.0.dll
+C:\Users\Scottie\OneDrive\Desktop\Mortgage_Calculator_1.0\obj\Debug\net6.0\Mortgage_Calculator_1.0.pdb
+C:\Users\Scottie\OneDrive\Desktop\Mortgage_Calculator_1.0\obj\Debug\net6.0\Mortgage_Calculator_1.0.genruntimeconfig.cache
+C:\Users\Scottie\OneDrive\Desktop\Mortgage_Calculator_1.0\obj\Debug\net6.0\ref\Mortgage_Calculator_1.0.dll
